@@ -1,0 +1,26 @@
+.country-card{
+  border:2px solid #44f1f1;
+  padding: 16px;
+  max-width: 320px;
+  border-radius: 16px;
+}
+.visited-country{
+  background-color: rgb(20, 20, 5);
+  color:white;
+}
+
+.country-flag{
+  height:120px;
+  width:auto;
+}
+.btn{
+  padding: 6px 16px;
+  background-color: rgb(10, 74, 74);
+  margin-top: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+}
+.btn:hover{
+  background-color: rgb(27, 144, 144);
+}
